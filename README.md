@@ -1,8 +1,5 @@
 # QKart
 
-## Installation and running
-npm install
-npm run start
 
 ## Landing Page
 ![image](https://github.com/ehteshamtarq/QKart/assets/72429244/03ad798d-882d-4fd0-8b6b-ac2866867764)
