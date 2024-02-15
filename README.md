@@ -1,5 +1,17 @@
-# QKart
+# QTrip
+A dyanmic travel website that can be used to browse adventures and make reservations
 
+## Installation
+
+```bash
+npm install
+```
+```bash
+npm start
+```
+
+## Deployment
+[Live](https://qtrip-dynamic-3ubqygwlc-ehtesham-tariques-projects.vercel.app/)
 
 ## Landing Page
 ![image](https://github.com/ehteshamtarq/QKart/assets/72429244/03ad798d-882d-4fd0-8b6b-ac2866867764)
