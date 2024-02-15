@@ -1,8 +1,13 @@
 # QKart
 
+## Installation and running
+npm install
+npm run start
+
 ## Landing Page
 ![image](https://github.com/ehteshamtarq/QKart/assets/72429244/03ad798d-882d-4fd0-8b6b-ac2866867764)
 
+### All the city in grid 
 ![image](https://github.com/ehteshamtarq/QKart/assets/72429244/866cd44d-0ce2-41df-9b17-157a0ecb3feb)
 
 ## Adventure Page
